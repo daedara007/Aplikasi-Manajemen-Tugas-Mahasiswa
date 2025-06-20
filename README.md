@@ -99,18 +99,7 @@ category
 deadline
 status
 user_id (FOREIGN KEY)
-🎨 Design UI/UX
-Color Scheme
-Primary: Purple (#9632CC)
-Secondary: Light Purple (#DCC4DC)
-Background: Light Gray (#F0F0F0)
-Cards: White (#FFFFFF)
-Text: Dark Gray (#333333)
-Layout Principles
-Responsive Design: Adaptif terhadap berbagai ukuran window
-Consistent Spacing: Margin dan padding yang konsisten
-Visual Hierarchy: Penggunaan typography dan warna yang hierarkis
-User-Friendly: Navigasi yang intuitif dan mudah dipahami
+
 🚀 Fitur Lanjutan
 Notifikasi Deadline
 Popup otomatis saat aplikasi dibuka
